@@ -113,7 +113,9 @@ namespace CursoWindowsForms
 
         private void sairToolStripMenuItem_Click(object sender, EventArgs e)
         {
+
             Application.Exit();
+
         }
 
         private void apagarAbaToolStripMenuItem_Click(object sender, EventArgs e)
